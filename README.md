@@ -1,10 +1,5 @@
 ### Hi there 👋
-Coding Languages:
-- python
-- Golang
-- C++
 
-## 🤔 I’m looking for help with my life
 
 <!--
 **Notplying/Notplying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
